@@ -1,0 +1,10 @@
+Reproduction of alignment errors in flatbuffers/grpc
+
+cd gretter
+Edit Makefile to point at installs of gRPC and flatbuffers
+make
+./server
+(leave running)
+./client
+
+(On Linux)
