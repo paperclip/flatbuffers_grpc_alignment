@@ -1,6 +1,6 @@
 Reproduction of alignment errors in flatbuffers/grpc
 
-cd gretter
+cd greeter
 Edit Makefile to point at installs of gRPC and flatbuffers
 make
 ./server
